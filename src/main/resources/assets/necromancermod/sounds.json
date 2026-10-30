@@ -1,0 +1,57 @@
+{
+  "necromancer.laugh": {
+    "sounds": [
+      "necromancermod:necromancer/laugh_1",
+      "necromancermod:necromancer/laugh_2"
+    ]
+  },
+  "necromancer.orb_cast": {
+    "sounds": [
+      "necromancermod:necromancer/orb_cast",
+      "necromancermod:necromancer/orb_cast_2"
+    ]
+  },
+  "necromancer.minion_summoned": {
+    "sounds": [
+      "necromancermod:necromancer/minion_summoned"
+    ]
+  },
+  "necromancer.summon_cast": {
+    "sounds": [
+      "necromancermod:necromancer/summon_cast"
+    ]
+  },
+  "necromancer.idle": {
+    "sounds": [
+      "necromancermod:necromancer/idle_1",
+      "necromancermod:necromancer/idle_2",
+      "necromancermod:necromancer/idle_3"
+    ]
+  },
+  "necromancer.hurt": {
+    "sounds": [
+      "necromancermod:necromancer/death_1",
+      "necromancermod:necromancer/death_2"
+    ]
+  },
+  "necromancer.death": {
+    "sounds": [
+      "necromancermod:necromancer/hurt_1",
+      "necromancermod:necromancer/hurt_2",
+      "necromancermod:necromancer/hurt_3",
+      "necromancermod:necromancer/hurt_4"
+    ]
+  },
+  "necromancer.orb_impact": {
+    "sounds": [
+      {
+        "name": "necromancermod:necromancer/orb_impact_1",
+        "volume": 0.4
+      },
+      {
+        "name": "necromancermod:necromancer/orb_impact_2",
+        "volume": 0.4
+      }
+    ]
+  }
+}
